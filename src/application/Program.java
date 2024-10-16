@@ -8,7 +8,7 @@ public class Program {
 	public static void main(String[] args) {
 		
 		//CRIANDO UM OBJETO DO TIPO FILE
-		File file = new File("c:\\temp\\in.txt");
+		File file = new File("c:\\temp\\in.txt");	//para indicar contra-barra é preciso usar dois contra-barras
 		Scanner sc = null;
 		
 //		INSTANCIANDO O SCANNER A PARTIR DO ARQUIVO(file)
